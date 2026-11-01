@@ -9,3 +9,5 @@ theres not much to explain about it other than it has leds controlled by 3 butto
 
 
 this is the most difficult project i had so far
+
+<img width="522" height="470" alt="image" src="https://github.com/user-attachments/assets/68cbc3aa-ddec-4127-97aa-a1e0f7da084f" />
